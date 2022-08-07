@@ -1,0 +1,16 @@
+.answer{
+  margin: 1rem 0;
+  padding: 12px;
+  border: 1px solid rgb(143, 137, 137);
+  border-radius: 8px;
+}
+/* input[type="radio"]{
+  visibility:hidden;
+}
+input[type="radio"]:checked+label{
+  background-color: blue;
+} */
+
+.answer label{
+  margin: 0 0 0 16px;
+}
